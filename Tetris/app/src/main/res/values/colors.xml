@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="c1">#AED6F1</color>
+    <color name="c2">#D2B4DE</color>
+    <color name="c3">#F5B7B1</color>
+    <color name="c4">#A2D9CE</color>
+    <color name="c5">#FCF3CF</color>
+    <color name="c6">#EDBB99</color>
+    <color name="c7">#E5E7E9</color>
+    <color name="c8">#F7F9F9</color>
+    <color name="c9">#A9DFBF</color>
+    <color name="c10">#F9E79F</color>
+    <color name="loginScreen">#b3ccff</color>
+    <color name="hintColor">#ffa366</color>
+    <color name="buttonColor">#60ffb366</color>
+    <color name="titleColor">#e67300</color>
+    <color name="hallOfFameColor">#ffffcc</color>
+    <color name="highScoreColor">#0000ff</color>
+    <color name="coinsColor">#00cc00</color>
+    <color name="livesColor">#ff0000</color>
+
+</resources>
